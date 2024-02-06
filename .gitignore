@@ -142,3 +142,4 @@ dmypy.json
 
 # Misc
 .sqlite.cache
+.jsonl
